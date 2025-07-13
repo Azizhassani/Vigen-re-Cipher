@@ -1,4 +1,4 @@
-# 🔐 Vigenère Cipher Decryption Tool
+# Vigenère Cipher Decryption Tool
 
 This is a simple Python program that decrypts a message using the Vigenère cipher algorithm — one of the most famous encryption methods in classical cryptography.
 
